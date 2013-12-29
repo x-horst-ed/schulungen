@@ -1,0 +1,27 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.left {
+		text-align: left;
+}
+.fuehrend {
+	font-size: 1.5em;
+	text-align: left;
+}
+.gerade {
+	background-color: #ebebeb;
+}
+td {
+		padding:0.5em;
+}
+table {
+		align: center;
+		text-align: center;
+}
+th {
+		text-align: center;
+}
